@@ -1,8 +1,8 @@
 md "%UserProfile%\AppData\Local\Packages\ROBLOXCORPORATION.ROBLOX_55nm5eh3cm0pr\LocalState\ClientSettings"
-Title Nitrowo's Custom UWP Launcher
+Title Nitro's Custom UWP Launcher
 cls
 @echo off
-echo Welcome to Nitrowo's Launcher!
+echo Welcome to Nitro's Launcher!
 echo Settings:
 set /p qtxt=Voxel(1), Future(2) or Default(3) Lighting? 
 set /p vk=Vulkan(1) Or D3D11(2)? 
